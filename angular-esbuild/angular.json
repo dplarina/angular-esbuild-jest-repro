@@ -87,7 +87,7 @@
               "zone.js/testing"
             ],
             "tsConfig": "tsconfig.spec.json",
-            "include":[ "angular-esbuild/src/app/component-b/component-b.component.spec.ts"],
+            "include":[ "src/app/component-b/component-b.component.spec.ts"],
           }
         }
       }
